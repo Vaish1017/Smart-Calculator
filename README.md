@@ -3,7 +3,7 @@
 SmartCalc is a Streamlit web application that combines basic mathematical and financial calculations into a single interactive tool.
 
 
-## 🚀 Live Application
+## Live Application
 
 🔗 **Deployment Link**
 
